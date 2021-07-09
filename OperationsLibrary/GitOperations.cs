@@ -12,10 +12,9 @@ namespace OperationsLibrary
     {
         public void GetDiff()
         {
-            Process.Start("git init");
-            Process.Start("git remote add origin https://github.com/burakdinler/Lahmacun.git");
-            Process.Start("git archive -o update.zip HEAD $(git diff --name-only HEAD^)");
-
+            Process.Start("git","init");
+            Process.Start("git","remote add origin https://github.com/burakdinler/Lahmacun.git");
+            Process.Start("git", "archive -o D:\\Deneme\\Project\\update.zip HEAD $(git diff --name-only HEAD^)");
         }
     }
 }
