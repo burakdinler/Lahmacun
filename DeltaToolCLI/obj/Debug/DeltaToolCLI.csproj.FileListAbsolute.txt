@@ -24,3 +24,6 @@ D:\52HertzAppCodes\DeltaToolFW\DeltaToolFW\DeltaToolCLI\bin\Debug\lib\rhel-x64\l
 D:\52HertzAppCodes\DeltaToolFW\DeltaToolFW\DeltaToolCLI\bin\Debug\lib\ubuntu.16.04-arm64\libgit2-106a5f2.so
 D:\52HertzAppCodes\DeltaToolFW\DeltaToolFW\DeltaToolCLI\bin\Debug\lib\ubuntu.18.04-x64\libgit2-106a5f2.so
 D:\52HertzAppCodes\DeltaToolFW\DeltaToolFW\DeltaToolCLI\bin\Debug\OperationsLibrary.dll.config
+D:\52HertzAppCodes\DeltaToolFW\DeltaToolFW\DeltaToolCLI\bin\Debug\LibGit2Sharp.dll
+D:\52HertzAppCodes\DeltaToolFW\DeltaToolFW\DeltaToolCLI\bin\Debug\LibGit2Sharp.pdb
+D:\52HertzAppCodes\DeltaToolFW\DeltaToolFW\DeltaToolCLI\bin\Debug\LibGit2Sharp.xml
